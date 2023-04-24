@@ -28,3 +28,4 @@ services:
       - ./mysql:/var/lib/mysql
   redis:
     image: redis:latest    
+---    
